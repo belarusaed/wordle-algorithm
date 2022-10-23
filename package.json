@@ -1,0 +1,16 @@
+{
+  "name": "wordle-algho",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "belarusaed",
+    "email": "belarusaed@gmail.com",
+    "url": "https://belarusaed.gay/"
+  },
+  "license": "GPL-3.0-only",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "readline-sync": "^1.4.10"
+  }
+}
